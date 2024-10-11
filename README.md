@@ -1,6 +1,6 @@
 <b> 0x04. Files manager</b>
 <hr>
-*`Back-end`* *`JavaScript`* *`ES6`* *`NoSQL`* *`MongoDB`* *`Redis`* *`NodeJS`* *`ExpressJS`* *`Kue`*
+**`Back-end`** **`JavaScript`** **`ES6`** **`NoSQL`** **`MongoDB`** **`Redis`** **`NodeJS`** **`ExpressJS`** **`Kue`**
 
 This project is a summary of this back-end trimester: authentication, NodeJS, MongoDB, Redis, pagination and background processing.
 
